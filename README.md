@@ -1,4 +1,4 @@
-<img alt="Wave me" src="./images/border-top.png/" />
+<img alt="Wave me" src="./border-top.png/" />
 <h1 align="center">Hi , I'm Mohammed Rizin</h1>
 <h3 align='center'>
     <samp>Kaggle Competition Master</samp>
@@ -50,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
-<img alt="Wave me" src="./images/border-bot.png/" />
+<img alt="Wave me" src="./border-bot.png/" />
 
 <!--h1 align="center">Activity</h1>
 <h3 align='center'>
