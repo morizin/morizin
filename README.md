@@ -1,6 +1,7 @@
 <img alt="Wave me" src="./border-top.png/" />
 <h1 align="center">Hi , I'm Mohammed Rizin</h1>
 <h3 align='center'>
+    <samp>1st Rank in Kaggle Competition in India (46th in Global)</samp>
     <samp>Kaggle Competition Master</samp>
     <br/>
     <samp>Youngest Data Scientist</samp>
