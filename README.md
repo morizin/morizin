@@ -1,7 +1,7 @@
 <img alt="Wave me" src="./border-top.png/" />
 <h1 align="center">Hi , I'm Mohammed Rizin</h1>
 <h3 align='center'>
-    <samp>1st Rank in Kaggle Competition in India (46th in Global)</samp>
+    <samp>2nd Rank in Kaggle Competition in India (38th in Global)</samp>
     <samp>Kaggle Competition Master</samp>
     <br/>
     <samp>Youngest Data Scientist</samp>
@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/Mail_Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail-theja.vanka@gmail.com">
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/mohammed-rizin-bb95b7127/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/morizin/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/krishnatheja-vanka">
     </a>
     &nbsp;
