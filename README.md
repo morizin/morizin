@@ -8,9 +8,9 @@
 </h3>
 
 <ul align='center' style="list-style-type:none;">
-    <li>I am a <b> High School Student </b></li>
-    <li> <b> 1st Place Winner</b> in  <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection">VinBigData Chest- Xray Abnormalities Detection</a></li>
-    <li> <b> 2nd Place Winner</b> in  <a href="https://www.kaggle.com/c/bms-molecular-translation">Bristol-Myers Squibb – Molecular Translation</a></li>
+    		I am a <b> High School Student </b>
+    <b> 	1st Place Winner</b> in  <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection">VinBigData Chest- Xray Abnormalities Detection</a>
+    <b> 	2nd Place Winner</b> in  <a href="https://www.kaggle.com/c/bms-molecular-translation">Bristol-Myers Squibb – Molecular Translation</a>
 </ul>
 <p align='center'>
     <b>Connect</b> with me if you are into building <b>Machine Learning / Deep Learning Models, Data Science</b>, or just to say <b>"Hi"</b> 👋.
