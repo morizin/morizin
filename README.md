@@ -8,7 +8,7 @@
 </h3>
 
 <ul align='center' style="list-style-type:none;">
-    		I am a <b> High School Student </b>
+    		I am a <b> High School Student </b><br>
     <b> 	1st Place Winner</b> in  <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection">VinBigData Chest- Xray Abnormalities Detection</a><br>
     <b> 	2nd Place Winner</b> in  <a href="https://www.kaggle.com/c/bms-molecular-translation">Bristol-Myers Squibb – Molecular Translation</a>
 </ul>
