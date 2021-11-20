@@ -1,7 +1,7 @@
 <img alt="Wave me" src="./border-top.png/" />
 <h1 align="center">Hi , I'm Mohammed Rizin</h1>
 <h3 align='center'>
-    <samp>2nd Rank in Kaggle Competition in India (38th in Global)</samp>
+    <samp>49th Rank in Kaggle Competition in Global</samp>
     <samp>Kaggle Competition Master</samp>
     <br/>
     <samp>Youngest Data Scientist</samp>
@@ -31,7 +31,10 @@
         <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle/thejavanka">
     </a>
 </div>
-
+<div align='center'>
+	![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/competition)
+	![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/discussion)
+</div>
 <br/>
 
 <div align='center'>
