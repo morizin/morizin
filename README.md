@@ -32,8 +32,9 @@
     </a>
 </div>
 <div align='center'>
-	![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/competition)
-	![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/discussion)
+	<img src="https://kaggle-summary-card.herokuapp.com/api?user=morizin" />
+<!-- 	![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/competition)
+	![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/discussion) -->
 </div>
 <br/>
 
