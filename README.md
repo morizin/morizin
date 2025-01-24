@@ -1,73 +1,9 @@
-<img alt="Wave me" src="./border-top.png/" />
-<h1 align="center">Hi , I'm Mohammed Rizin</h1>
-<h3 align='center'>
-    <samp>49th Rank in Kaggle Competition in Global</samp>
-    <samp>Kaggle Competition Master</samp>
-    <br/>
-    <samp>Youngest Data Scientist</samp>
-</h3>
-
-<ul align='center' style="list-style-type:none;">
-    		I am a <b> High School Student </b><br>
-    <b> 	1st Place Winner</b> in  <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection">VinBigData Chest- Xray Abnormalities Detection</a><br>
-    <b> 	2nd Place Winner</b> in  <a href="https://www.kaggle.com/c/bms-molecular-translation">Bristol-Myers Squibb – Molecular Translation</a>
-</ul>
-<p align='center'>
-    <b>Connect</b> with me if you are into building <b>Machine Learning / Deep Learning Models, Data Science</b>, or just to say <b>"Hi"</b> 👋.
-</p>
-
-<br/>
-
-<div align='center'>
-    <a href="mailto:mrizin2013@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Mail_Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail-theja.vanka@gmail.com">
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/morizin/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn/krishnatheja-vanka">
-    </a>
-    &nbsp;
-    <a href="https://kaggle.com/morizin" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle/thejavanka">
-    </a>
-</div>
-<div align='center'>
-	<img src="https://kaggle-summary-card.herokuapp.com/api?user=morizin" />
-<!-- 	![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/competition)
-	![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/morizin/discussion) -->
-</div>
-<br/>
-
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=morizin&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true' alt='My-Github-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=morizin&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB' alt='Top-Langs'>
-</div>
-
-<br/>
-
----
-
-<div align='center' width="100%">
-	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="25px">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="25px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-
-<img alt="Wave me" src="./border-bot.png/" />
-
-<!--h1 align="center">Activity</h1>
-<h3 align='center'>
-    <samp>Current Adventures</samp>
-</h3>
-
-<br/>
-
-<ul align='left' style="list-style-type:none;">
-    <li>:zap: Learning Golang for fun.</li>
-    <li>:trollface: Thinking about the Julia Hype Train</li>
-    <li>:relaxed: Binging on Beethoven</li>
-    <li>:cyclone: Confused on Kaggle</li>
-</ul -->
+<img alt="Wave me" src="./border-top.png/" /> <h1 align="center">Hi, I'm Mohammed Rizin Vadakalathil</h1> <h3 align="center"> <samp>🏆 Kaggle Competition Master</samp><br/> <samp>🎖️ 49th Globally in Kaggle Competitions</samp><br/> <samp>✨ Youngest Data Scientist</samp> </h3>
+<p align="center"> <b>A relentless explorer of data science, artificial intelligence, and problem-solving at scale!</b><br/> As a passionate <strong>AI researcher</strong>, I love building Machine Learning/Deep Learning models and applying cutting-edge methods to tackle real-world challenges. I thrive at the intersection of creativity and technology, always driven to learn, innovate, and make a difference. </p>
+<h2 align="center">Achievements</h2> <ul align="center" style="list-style-type:none;"> <li>🏅 <b>1st Place Winner</b> in <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection">VinBigData Chest X-ray Abnormalities Detection</a></li> <li>🥈 <b>2nd Place Winner</b> in <a href="https://www.kaggle.com/c/bms-molecular-translation">Bristol-Myers Squibb – Molecular Translation</a></li> <li>🌍 Ranked <b>49th Globally</b> in Kaggle Competitions</li> <li>💡 Contributed to <b>AI-based Tuberculosis Detection Models</b> with NVIDIA</li> <li>📊 Collaborated on groundbreaking research using <b>Transformers</b> to predict earthquake data</li> </ul>
+<h2 align="center">About Me</h2> <ul align="center" style="list-style-type:none;"> <li>📚 <strong>Currently Pursuing:</strong> Bachelor’s in Mathematics</li> <li>🚀 Founder of <b>Medulla</b>, an initiative leveraging conversational AI to revolutionize medical education and healthcare.</li> <li>🧠 Fascinated by <b>AI Theories</b>, <b>Mechanistic Interpretability</b>, and building foundational models.</li> <li>💻 Proficient in Python, PyTorch, TensorFlow, C++, and JavaScript.</li> <li>🌟 Kaggle enthusiast and avid competitor in global data challenges.</li> <li>💬 Languages: Fluent in English and Malayalam; learning German.</li> </ul>
+<h2 align="center">Let’s Connect</h2> <p align="center"> Feel free to connect if you’re into building <b>Machine Learning/Deep Learning Models</b>, diving deep into <b>AI research</b>, or just to say <b>“Hi”</b> 👋. I’m always happy to network, brainstorm ideas, or collaborate on projects. </p> <div align="center"> <a href="mailto:mrizin2013@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Mail_Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Mohammed Rizin"> </a> &nbsp; <a href="https://www.linkedin.com/in/morizin/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Mohammed Rizin"> </a> &nbsp; <a href="https://kaggle.com/morizin" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Mohammed Rizin"> </a> </div>
+<h2 align="center">Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=morizin&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morizin&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB" alt="Top-Langs"> </div>
+<h2 align="center">Tech Stack</h2> <div align="center" width="100%"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+<h2 align="center">Kaggle Highlights</h2> <div align="center"> <img src="https://kaggle-summary-card.herokuapp.com/api?user=morizin" /> </div>
+<h2 align="center">More About Me</h2> <ul align="left" style="list-style-type:none;"> <li>🌱 Always learning: Exploring advanced topics in AI and Linux customization.</li> <li>🎨 Passionate about teaching: Creating Manim-based educational videos, inspired by 3Blue1Brown.</li> <li>📖 Interests: Mathematics, healthcare technology, and AI research.</li> <li>🚴‍♂️ Hobbies: Exploring nature, reading, and engaging in tech communities.</li> </ul> <img alt="Wave me" src="./border-bot.png/" />
