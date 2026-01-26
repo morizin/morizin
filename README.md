@@ -1,9 +1,81 @@
-<img alt="Wave me" src="./border-top.png/" /> <h1 align="center">Hi there, I'm Mohammed Rizin 👋</h1> <h3 align="center"> <samp>🏆 Kaggle Competition Master</samp><br/> <samp>🎖️ 38th Globally in Kaggle Competitions</samp><br/> <samp>✨ Data Scientist</samp> </h3>
-<p align="center"> <b>I'm burning passion for data science and machine learning, already making significant waves in the technical community. As a young data scientist, I've proven that age is just a number when it comes to innovation and technical excellence.</p>
-<h2 align="center">Key Achievements</h2> <ul align="center" style="list-style-type:none;"> <li>🏅 <b>1st Place Winner</b> in <a href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection">VinBigData Chest X-ray Abnormalities Detection</a></li> <li>🥈 <b>2nd Place Winner</b> in <a href="https://www.kaggle.com/c/bms-molecular-translation">Bristol-Myers Squibb – Molecular Translation</a></li> <li>🌍 Ranked <b>38th Globally</b> in Kaggle Competitions</li> <li>🤖 Contributed to <b>AI-based Tuberculosis Detection Models</b> with NVIDIA</li> <li>📊 Researched earthquake prediction using <b>specialized Transformers</b> in collaboration with international teams</li> <li>⚡ Recognized for <b>exceptional internship contributions</b> at NVIDIA, Fathom, and PathCheck Foundation</li> <li>🚀 Founder of <b>Medulla</b>: Revolutionizing medical education with AI-driven tools</li> </ul>
-<h2 align="center">Technical Expertise</h2> <div align="center"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/OpenCV_Logo_with_text_svg_version.svg" width="80px"> </div> <h4 align="center">And More: SciPy | NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | ROS (Robot Operating System) | CUDA | Docker | Git | Linux Kernel Customization</h4>
-<h2 align="center">My Current Focus</h2> <ul align="center" style="list-style-type:none;"> <li>🔬 Building advanced <b>Medical Education Tools</b> using conversational AI and NLP</li> <li>🤖 Developing <b>AI-driven Robotics Applications</b> with ROS</li> <li>📈 Exploring <b>mechanistic interpretability</b> in AI to understand decision-making processes</li> <li>🌐 Innovating in <b>healthcare technology</b> to improve accessibility and outcomes</li> <li>💻 Learning <b>Linux deep customization</b> to optimize systems for specific use cases</li> </ul>
-<h2 align="center">Kaggle Highlights</h2> <div align="center"><iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?morizin" width="100%" height="300" style="border:none; min-width: 800px;"></iframe></div>
-<h2 align="center">GitHub Stats</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=morizin&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&hide_border=true" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morizin&custom_title=Most%20Used%20Extensions&langs_count=3&hide_border=true&hide=html,css,MATLAB" alt="Top-Langs"> </div>
-<h2 align="center">About Me</h2> <ul align="center" style="list-style-type:none;"> <li>🌱 Lifelong Learner: Constantly expanding my knowledge in AI, robotics, and beyond.</li> <li>🎨 Passionate Educator: Crafting <b>Manim-based educational videos</b>, inspired by 3Blue1Brown.</li> <li>📖 Hobbies: Mathematics, healthcare tech, coding, and exploring nature.</li> <li>🗣️ Multilingual: Fluent in English and Malayalam, learning German.</li> <li>🤝 Collaborator: Always eager to network and co-create innovative projects.</li> </ul>
-<h2 align="center">Let’s Connect</h2> <p align="center"> Whether you’re building cutting-edge ML models, exploring robotics, or brainstorming AI concepts, feel free to <b>reach out!</b> Let’s innovate, learn, and create a better future together. 🚀 </p> <div align="center"> <a href="mailto:mrizin2013@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Mail_Me-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Mohammed Rizin"> </a> &nbsp; <a href="https://www.linkedin.com/in/morizin/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Mohammed Rizin"> </a> &nbsp; <a href="https://kaggle.com/morizin" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Mohammed Rizin"> </a> </div> <img alt="Wave me" src="./border-bot.png/" />
+<div align="center">
+
+# Hi, I'm Mohammed Rizin 👋
+
+### AI/ML Engineer | Kaggle Master | Top 38 Globally
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenomenrizin/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/morizin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:morizinvk@gmail.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+AI/ML Engineer with 4+ years building production-grade models across LLMs, Computer Vision, and NLP. Passionate about deep learning research and deploying high-performance systems that deliver measurable impact.
+
+**Current Focus:** Deep learning research, computer vision, medical AI, and production ML systems
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Kaggle Competition Master** - Ranked #38 Globally, #1 in India
+- 🏅 **3× Gold Medals** - 1st Place VinBigData, 2nd Place Bristol Myers Squibb
+- 💚 **Ex-NVIDIA** - Deep Learning Intern, TB detection systems (0.97 AUC)
+- 🎤 **Speaker** - Kaggle Days Delhi/Seoul, 100K+ students reached
+- 🎓 **IIT Madras** - BS in Data Science (CGPA: 8.1)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### ML/DL Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### LLMs & AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-74aa9c?style=for-the-badge&logoColor=white)
+
+### MLOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Monitoring
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morizin&show_icons=true&count_private=true&theme=default&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morizin&layout=compact&langs_count=6&hide_border=true" height="165">
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaborations and opportunities in AI/ML* 🤝
+
+</div>
