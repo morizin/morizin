@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Mohammed Rizin 👋
+24f1002455@ds.study.iitm.ac.in
 
 ### AI/ML Engineer | Kaggle Master | Top 38 Globally
 
