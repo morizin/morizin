@@ -8,10 +8,10 @@ text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
 </style>
 <rect class="bg" x="0.5" y="0.5" width="494" height="204" rx="8"/>
 <text class="title" x="24" y="34">Top languages (notebooks excluded)</text>
-<clipPath id="r"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#r)"><rect x="24.0" y="52" width="347.7" height="10" fill="#3572A5"/><rect x="371.7" y="52" width="51.8" height="10" fill="#3178c6"/><rect x="423.6" y="52" width="32.0" height="10" fill="#dea584"/><rect x="455.6" y="52" width="10.5" height="10" fill="#76b900"/><rect x="466.1" y="52" width="3.3" height="10" fill="#b07219"/><rect x="469.4" y="52" width="1.6" height="10" fill="#8a8a8a"/></g>
-<circle cx="29" cy="92" r="5" fill="#3572A5"/><text class="name" x="42" y="96">Python</text><text class="pct" x="174" y="96">77.8%</text>
-<circle cx="265" cy="92" r="5" fill="#3178c6"/><text class="name" x="278" y="96">TypeScript</text><text class="pct" x="410" y="96">11.6%</text>
-<circle cx="29" cy="122" r="5" fill="#dea584"/><text class="name" x="42" y="126">Rust</text><text class="pct" x="174" y="126">7.2%</text>
+<clipPath id="r"><rect x="24" y="52" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#r)"><rect x="24.0" y="52" width="348.3" height="10" fill="#3572A5"/><rect x="372.3" y="52" width="51.5" height="10" fill="#3178c6"/><rect x="423.8" y="52" width="31.9" height="10" fill="#dea584"/><rect x="455.7" y="52" width="10.4" height="10" fill="#76b900"/><rect x="466.1" y="52" width="3.3" height="10" fill="#b07219"/><rect x="469.5" y="52" width="1.5" height="10" fill="#8a8a8a"/></g>
+<circle cx="29" cy="92" r="5" fill="#3572A5"/><text class="name" x="42" y="96">Python</text><text class="pct" x="174" y="96">77.9%</text>
+<circle cx="265" cy="92" r="5" fill="#3178c6"/><text class="name" x="278" y="96">TypeScript</text><text class="pct" x="410" y="96">11.5%</text>
+<circle cx="29" cy="122" r="5" fill="#dea584"/><text class="name" x="42" y="126">Rust</text><text class="pct" x="174" y="126">7.1%</text>
 <circle cx="265" cy="122" r="5" fill="#76b900"/><text class="name" x="278" y="126">Cuda</text><text class="pct" x="410" y="126">2.3%</text>
 <circle cx="29" cy="152" r="5" fill="#b07219"/><text class="name" x="42" y="156">Java</text><text class="pct" x="174" y="156">0.7%</text>
 <circle cx="265" cy="152" r="5" fill="#8a8a8a"/><text class="name" x="278" y="156">C</text><text class="pct" x="410" y="156">0.3%</text>
