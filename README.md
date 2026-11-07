@@ -2,58 +2,70 @@
 
 <img src="border-top.png" alt="" width="100%">
 
-# Hi, I'm Mohammed Rizin 👋
+# Mohammed Rizin: Machine Learning Engineer
 
-### AI/ML Engineer | Kaggle Master | Top 38 Globally
+**Kaggle Competitions Master · Computer Vision · CUDA · Reinforcement Learning · LLM Fine-tuning**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=640&height=40&lines=Deep+learning+research+%C2%B7+Computer+vision+%C2%B7+Medical+AI;Production+ML+systems+that+deliver+measurable+impact;Kaggle+Competition+Master+%C2%B7+%2338+globally" alt="Deep learning research, computer vision, medical AI, production ML systems">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=640&height=40&lines=Machine+learning+engineer+in+Mumbai%2C+India;Computer+vision+%C2%B7+CUDA+%C2%B7+reinforcement+learning+%C2%B7+LLMs;Kaggle+Competitions+Master+%C2%B7+12+medals" alt="Machine learning engineer in Mumbai, India: computer vision, CUDA, reinforcement learning and LLMs">
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenomenrizin/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/morizin)
 [![Website](https://img.shields.io/badge/Website-morizin.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://morizin.github.io)
+[![Kaggle](https://img.shields.io/badge/Kaggle-morizin-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/morizin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fenomenrizin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenomenrizin/)
 [![X](https://img.shields.io/badge/X-MohammedRizin-000000?style=flat&logo=x&logoColor=white)](https://x.com/MohammedRizin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:morizinvk@gmail.com)
-[![IITM mail](https://img.shields.io/badge/IITM-mail-8C1D40?style=flat)](mailto:24f1002455@ds.study.iitm.ac.in)
 [![Followers](https://img.shields.io/github/followers/morizin?style=flat&logo=github&label=Followers)](https://github.com/morizin?tab=followers)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-AI/ML Engineer with 4+ years building production-grade models across LLMs, Computer Vision, and NLP. Passionate about deep learning research and deploying high-performance systems that deliver measurable impact.
+I'm a machine learning engineer based in Mumbai, India, with four years of production experience in computer vision, medical AI, LLM-backed systems, CUDA and reinforcement learning. I'm a **Kaggle Competitions Master** with 12 medals, ranked in the global top 38, and most of them come from code competitions where the organiser runs your submission against a hidden test set under a fixed compute budget.
 
-**Current Focus:** Deep learning research, computer vision, medical AI, and production ML systems
+I'm currently on contract with Shipd / DataCurve. More about my work, competition record and writing is on my site: **[morizin.github.io](https://morizin.github.io)**.
 
----
-
-## 🏆 Highlights
-
-- 🥇 **Kaggle Competition Master** - Ranked #38 Globally, #1 in India
-- 🏅 **3× Gold Medals** - 1st Place VinBigData, 2nd Place Bristol Myers Squibb
-- 💚 **Ex-NVIDIA** - Deep Learning Intern, TB detection systems (0.97 AUC)
-- 🎤 **Speaker** - Kaggle Days Delhi/Seoul, 100K+ students reached
-- 🎓 **IIT Madras** - BS in Data Science (CGPA: 8.1)
+### What I can help with
+- **Evaluation and task design:** coding tasks, verifiers and benchmark sets for training or evaluating agents, packaged to run in Docker.
+- **CUDA and GPU performance:** reference kernels, profiling and multi-GPU training speed-ups.
+- **Computer vision, prototype to production:** detection and classification systems deployed on server, browser or edge devices.
+- **RL and simulation research:** PPO and GRPO from scratch, model-graded rewards, MuJoCo and Gymnasium environments.
 
 ---
 
-## 🔭 Featured projects
+## Experience
 
-| Project | What it is | Stack |
+| Where | Role | What I did |
 |---|---|---|
-| [**jigsaw**](https://github.com/morizin/jigsaw) | Jigsaw Agile Community Rules Classification: predicting whether Reddit comments break subreddit rules with transformer models and ensembles. **82nd of 2,445 teams (top 3.4%)** | Python |
-| [**Making-AI-Beneficial**](https://github.com/morizin/Making-AI-Beneficial) | Solution to the Upstage "Making AI Beneficial" competition, score **0.966** | Python |
-| [**great-barrier-reef-detection**](https://github.com/morizin/great-barrier-reef-detection) | TensorFlow - Help Protect the Great Barrier Reef: real-time starfish detection in underwater reef videos | Jupyter |
-| [**tuberculosis-detection**](https://github.com/morizin/tuberculosis-detection) | Automated tuberculosis detection from chest X-ray images with deep learning | Python |
-| [**mnist_c**](https://github.com/morizin/mnist_c) | MNIST trained with hand-written CUDA kernels: a from-scratch 2-layer MLP with tiled matmul, fused bias + ReLU and softmax / cross-entropy | CUDA |
-| [**TCP-Implementation-Rust**](https://github.com/morizin/TCP-Implementation-Rust) | TCP built from scratch in Rust, for a YouTube tutorial series on network protocols | Rust |
+| **Shipd / DataCurve** | Contract machine learning engineer (current) | Work I can name but can't describe |
+| **Mercor** | Contract machine learning engineer (earlier this year) | Work I can name but can't describe |
+| **Medulla** | Founding ML researcher | Built an LLM-backed clinical assistant with a retrieval-and-citation pipeline over a curated medical corpus, and led a team of three through three pivots |
+| **Fathom Solutions** | Deep learning engineer | Doubled a road-damage detector's mAP and shipped it to the browser with TensorFlow.js |
+| **NVIDIA** | Deep learning intern | Distributed multi-GPU training, Docker and Triton-served inference; wrote conversion scripts that shipped as Deep Learning Institute course material |
 
 ---
 
-## 🛠️ Tech Stack
+## Selected projects
+
+| Project | What it is |
+|---|---|
+| [**Jigsaw: Agile Community Rules**](https://github.com/morizin/jigsaw) | **Silver medal, 82nd of 2,445.** Predicting whether a Reddit comment breaks a subreddit's rule: a config-driven pipeline, Qwen3-8B fine-tuned with a from-scratch GRPO implementation against a model-graded reward, and a cross-validated ensemble with BGE and DeBERTa-v3 |
+| [**Upstage: Making AI Beneficial**](https://github.com/morizin/Making-AI-Beneficial) | **Score 0.966.** A SAINT transformer, pseudo-labelled retraining and an ensemble across seven training variants; code and weights are public |
+| [**MNIST in hand-written CUDA**](https://github.com/morizin/mnist_c) | A two-layer MLP where every kernel is written by hand (tiled matmul, fused bias and ReLU, fused softmax cross-entropy, batch gather, SGD with momentum), with no cuBLAS and no cuDNN |
+| [**Crash Detector**](https://github.com/morizin/crash-detector) | Predicts an imminent crash from dashcam frames, vehicle sensors and actuator state, then intervenes to stabilise the vehicle in the seconds before impact |
+| [**Tuberculosis Detection**](https://github.com/morizin/tuberculosis-detection) | Binary TB screening from chest X-rays with a Keras model behind a one-page Streamlit app (research and education only) |
+| [**Movement Safety**](https://github.com/morizin/movement-safety) | A Rust research pipeline asking whether synchronised accelerometer and gyroscope data from consenting phones can characterise a physical interaction, built on two synthetic generators, with the recall collapse between them published as the finding |
+| **AI Village CTF @ DEF CON 31** | **Solo silver, 36th of 1,344.** Attacks against deployed models and the guardrails wrapped around them |
+| **Google Research Football with Manchester City** | **348th of 1,139** in a multi-agent self-play environment where the opponent pool exploits your agent's weaknesses, and where hand-authored controllers kept beating learned policies |
+
+### Competition highlights
+🥇 1st place, VinBigData Chest X-ray Abnormalities Detection · 🥈 2nd place, Bristol Myers Squibb · 🎤 Speaker at Kaggle Days Delhi and Seoul
+
+---
+
+## Tech stack
 
 <div align="center">
 
@@ -61,6 +73,7 @@ AI/ML Engineer with 4+ years building production-grade models across LLMs, Compu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### ML/DL Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -71,7 +84,6 @@ AI/ML Engineer with 4+ years building production-grade models across LLMs, Compu
 ### LLMs & AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-74aa9c?style=for-the-badge&logoColor=white)
 
 ### MLOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -88,18 +100,18 @@ AI/ML Engineer with 4+ years building production-grade models across LLMs, Compu
 
 ---
 
-## 📊 GitHub at a glance
+## GitHub at a glance
 
 <div align="center">
 
-<img src="assets/stats.svg" alt="GitHub stats" height="205">
-<img src="assets/languages.svg" alt="Top languages" height="205">
+<img src="assets/stats.svg" alt="GitHub stats for morizin: stars, commits, pull requests, issues, repositories and followers" height="205">
+<img src="assets/languages.svg" alt="Top programming languages across morizin's repositories" height="205">
 
 <br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=morizin&hide_border=true&theme=dark">
-  <img src="https://streak-stats.demolab.com/?user=morizin&hide_border=true&theme=default" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com/?user=morizin&hide_border=true&theme=default" alt="GitHub contribution streak for morizin">
 </picture>
 
 </div>
@@ -108,7 +120,7 @@ AI/ML Engineer with 4+ years building production-grade models across LLMs, Compu
 
 <div align="center">
 
-*Open to collaborations and opportunities in AI/ML* 🤝
+**Open to machine learning contracts and collaborations:** computer vision, CUDA and GPU performance, reinforcement learning and agent evaluation.
 
 <img src="border-bot.png" alt="" width="100%">
 
