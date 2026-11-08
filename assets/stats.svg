@@ -9,8 +9,8 @@ text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
 <rect class="bg" x="0.5" y="0.5" width="494" height="204" rx="8"/>
 <text class="title" x="24" y="34">GitHub stats: morizin</text>
 <text class="label" x="24" y="70">Stars earned</text><text class="value" x="24" y="94">13</text>
-<text class="label" x="24" y="114">Commits, last 12 months</text><text class="value" x="24" y="138">204</text>
-<text class="label" x="24" y="158">Pull requests, last 12 months</text><text class="value" x="24" y="182">15</text>
+<text class="label" x="24" y="114">Commits, last 12 months</text><text class="value" x="24" y="138">203</text>
+<text class="label" x="24" y="158">Pull requests, last 12 months</text><text class="value" x="24" y="182">14</text>
 <text class="label" x="260" y="70">Public repositories</text><text class="value" x="260" y="94">49</text>
 <text class="label" x="260" y="114">Followers</text><text class="value" x="260" y="138">96</text>
 <text class="label" x="260" y="158">Issues, last 12 months</text><text class="value" x="260" y="182">3</text>
