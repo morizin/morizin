@@ -10,7 +10,7 @@ text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
 <text class="title" x="24" y="34">GitHub stats: morizin</text>
 <text class="label" x="24" y="70">Stars earned</text><text class="value" x="24" y="94">7</text>
 <text class="label" x="24" y="114">Commits, last 12 months</text><text class="value" x="24" y="138">49</text>
-<text class="label" x="24" y="158">Pull requests, last 12 months</text><text class="value" x="24" y="182">12</text>
+<text class="label" x="24" y="158">Pull requests, last 12 months</text><text class="value" x="24" y="182">10</text>
 <text class="label" x="260" y="70">Public repositories</text><text class="value" x="260" y="94">30</text>
 <text class="label" x="260" y="114">Followers</text><text class="value" x="260" y="138">95</text>
 <text class="label" x="260" y="158">Issues, last 12 months</text><text class="value" x="260" y="182">3</text>
